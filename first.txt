@@ -3,3 +3,4 @@ this is first file
 test line for fetch
 modifying in feature1 branch for test
 mesrge conflict test branch merge
+modifying in feat1 branch merge purpose
